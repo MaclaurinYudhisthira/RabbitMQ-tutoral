@@ -1,1 +1,1 @@
-# RabbitMQ-tutoral
+# RabbitMQ-tutorial
