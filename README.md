@@ -8,4 +8,3 @@
 - QUEUE_USERNAME="your-username"
 - QUEUE_PASSWORD="your-password"
 
-`
